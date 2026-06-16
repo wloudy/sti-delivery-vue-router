@@ -46,25 +46,6 @@ node node_modules/vite/bin/vite.js
 npm run build
 ```
 
-## Публикация на GitHub
-
-1. Создайте **публичный** репозиторий на [github.com/new](https://github.com/new) (например, `sti-delivery`).
-
-2. В папке проекта выполните (подставьте свой логин):
-
-```bash
-git init
-git add .
-git commit -m "STI RUSH: Vue Router 4 + Vuetify landing"
-git branch -M main
-git remote add origin https://github.com/ВАШ_ЛОГИН/sti-delivery.git
-git push -u origin main
-```
-
-3. В задании укажите ссылку на репозиторий, например:  
-   `https://github.com/ВАШ_ЛОГИН/sti-delivery`
-
-> Репозиторий должен быть **public**, иначе проверяющий не откроет ссылку.
 
 ## Структура
 
